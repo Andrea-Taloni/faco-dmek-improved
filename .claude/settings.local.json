@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "mcp__ide__executeCode"
+      "mcp__ide__executeCode",
+      "Bash(python:*)",
+      "Bash(pip install:*)"
     ],
     "deny": []
   }
