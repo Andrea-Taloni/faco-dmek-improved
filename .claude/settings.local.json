@@ -3,7 +3,8 @@
     "allow": [
       "mcp__ide__executeCode",
       "Bash(python:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(find:*)"
     ],
     "deny": []
   }
