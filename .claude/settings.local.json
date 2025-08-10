@@ -4,7 +4,8 @@
       "mcp__ide__executeCode",
       "Bash(python:*)",
       "Bash(pip install:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(cp:*)"
     ],
     "deny": []
   }
