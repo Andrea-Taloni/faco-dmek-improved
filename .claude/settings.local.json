@@ -5,8 +5,10 @@
       "Bash(python:*)",
       "Bash(pip install:*)",
       "Bash(find:*)",
-      "Bash(cp:*)"
+      "Bash(cp:*)",
+      "Bash(jupyter nbconvert:*)"
     ],
-    "deny": []
+    "deny": [],
+    "defaultMode": "acceptEdits"
   }
 }
