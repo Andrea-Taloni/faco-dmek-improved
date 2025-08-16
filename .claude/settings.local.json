@@ -7,7 +7,8 @@
       "Bash(find:*)",
       "Bash(cp:*)",
       "Bash(jupyter nbconvert:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(dir:*)"
     ],
     "deny": [],
     "defaultMode": "acceptEdits"
