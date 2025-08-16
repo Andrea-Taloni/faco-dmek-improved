@@ -6,7 +6,8 @@
       "Bash(pip install:*)",
       "Bash(find:*)",
       "Bash(cp:*)",
-      "Bash(jupyter nbconvert:*)"
+      "Bash(jupyter nbconvert:*)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "defaultMode": "acceptEdits"
