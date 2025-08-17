@@ -8,7 +8,10 @@
       "Bash(cp:*)",
       "Bash(jupyter nbconvert:*)",
       "Bash(cat:*)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)",
+      "Bash(git reset:*)"
     ],
     "deny": [],
     "defaultMode": "acceptEdits"
